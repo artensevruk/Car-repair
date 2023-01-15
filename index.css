@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rowdies&display=swap");
+body {
+  font-family: Raleway;
+  width: 1457px;
+  height: 717px;
+  margin: 0;
+  color: aliceblue;
+  background-color: rgb(53, 53, 53);
+}
+
+a {
+  font-size: 19;
+  color: aliceblue;
+  text-decoration: none;
+}
+.socialnetwork1 {
+  transition: 1s;
+}
+.socialnetwork1:hover {
+  transform: scale(1.2);
+}
+a:hover {
+  font-size: 22px;
+  color: red;
+}
+.Discriptor1 {
+  letter-spacing: 5px;
+  padding: 10px;
+  color: red;
+  margin: 0px;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.AUDI {
+  color: red;
+}
+
+.Car1 {
+  position: fixed;
+  left: 0px;
+
+  z-index: 1;
+}
+
+.Discriptor {
+  font-family: Raleway;
+  position: fixed;
+  z-index: 4;
+  left: 1030px;
+  background-color: rgba(0, 125, 215, 0);
+  padding: 10px;
+  margin: 0% auto;
+  /* text-align: right; */
+  height: 60px;
+}
+.Artem {
+  text-align: center;
+}
+.Attic {
+  width: 1457px;
+  height: 717px;
+
+  background-position: center;
+
+  background-image: url(image/Fon3.jpg);
+  text-align: center;
+}
+
+.wall {
+  position: relative;
+  top: -67px;
+  z-index: 3;
+}
+.Text {
+  text-shadow: 3px 3px 3px rgb(238, 7, 7);
+  opacity: 0.7;
+  font-size: 27px;
+  z-index: 1;
+  position: absolute;
+  bottom: 400px;
+  left: 100px;
+}
+.Car {
+  z-index: 0;
+}
+a {
+  /* border: 2px solid red; */
+  font-family: Rowdies;
+  text-shadow: 3px 3px 3px rgb(238, 7, 7);
+}
+.Text3 {
+  font-family: Raleway;
+  margin: 30px;
+  font-size: 16px;
+  position: relative;
+  text-align: center;
+}
+.socialnetwork {
+  position: relative;
+  bottom: -610px;
+  right: 600px;
+  z-index: 4;
+}
+
+.Text4 {
+  font-family: Raleway;
+  margin: 30px;
+  font-size: 16px;
+}
+span {
+  color: red;
+}
+.socialnetwork1 {
+  margin: 19px;
+}
+.Obolohca {
+  display: flex;
+  padding: 100px;
+}
+
+.Audi2 {
+  position: relative;
+  bottom: -15px;
+  padding-left: 115px;
+  margin: 23px;
+  display: flex;
+}
+
+.Audi3 {
+  transition: 1s;
+  margin: 40px;
+}
+.Audi3:hover {
+  transform: scale(1.2);
+}
+.Audi4 {
+  transition: 1s;
+  margin: 40px;
+}
+.Audi4:hover {
+  transform: scale(1.2);
+}
+.Audi5 {
+  transition: 1s;
+  margin: 40px;
+}
+.Audi5:hover {
+  transform: scale(1.2);
+}
+.Years {
+  font-family: Rowdies;
+  padding-left: 330px;
+  margin: 10px;
+  display: flex;
+}
+.Logo{
+  font-family: Rowdies;
+}
+.Years1 {
+  display: flex;
+}
+.Years2 {
+  padding-left: 100px;
+  display: flex;
+}
+.Big {
+  letter-spacing: 15px;
+  font-size: 80px;
+}
+.Text2 {
+  background-image: url(image/i.jpg);
+  position: relative;
+  top: -170px;
+  z-index: 3;
+}
+.wall2{
+  position: relative;
+  bottom: -65px;
+}
+.basement{ 
+  width: 1457px;
+  height: 300px;
+  background-image: url(image/blue.jpg);
+}
+.basement_Text{
+  font-size: 24px;
+  letter-spacing: 10px;
+  position: relative;
+  bottom: -130px;
+  padding-left: 100px;
+}
+.basement_Text2{
+  font-family: Rowdies;
+  font-size: 14px;
+  position: relative;
+  bottom: -150px;
+  padding-left: 100px;
+  color: red;
+}
+.basement_Text3{
+  font-family: Rowdies;
+  font-size: 16px;
+  position: relative;
+  bottom: -23px;
+  padding-left: 500px;
+  
+}
+.basement_Text4{
+  font-family: Rowdies;
+  font-size: 14px;
+  position: relative;
+  bottom: -40px;
+  padding-left: 500px;
+}
+.basement_Text5{
+  font-family: Rowdies;
+  font-size: 16px;
+  position: relative;
+  bottom: 98px;
+  padding-left: 789px;
+  letter-spacing: 5px;
+  
+}
+.basement_Text6{
+  letter-spacing: 2px;
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 196px;
+  padding-left: 1110px;
+}
+.basement_Text7{
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 196px;
+  padding-left: 1110px;
+}
+
+.basement_Text8{
+  font-family: Rowdies;
+  font-size: 15px;
+  position: relative;
+  bottom: 220px;
+  padding-left: 1110px;
+}
