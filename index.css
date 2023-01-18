@@ -27,7 +27,7 @@ a:hover {
 }
 .Discriptor1 {
   letter-spacing: 5px;
-  padding: 20px;
+  padding: 25px;
   color: red;
   margin: 0px;
   /* align-items: center;
@@ -51,7 +51,7 @@ a:hover {
   z-index: 4;
   left: 1030px;
   background-color: rgba(0, 125, 215, 0);
-  padding: 10px;
+  padding: 20px;
   margin: 0% auto;
   /* text-align: right; */
   height: 60px;
