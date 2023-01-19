@@ -80,7 +80,7 @@ a:hover {
   font-size: 27px;
   z-index: 1;
   position: absolute;
-  bottom: 400px;
+  bottom: 350px;
   left: 100px;
 }
 .Car {
@@ -163,7 +163,7 @@ span {
   display: flex;
 }
 .Years2 {
-  padding-left: 100px;
+  padding-left: 200px;
   display: flex;
 }
 .Big {
